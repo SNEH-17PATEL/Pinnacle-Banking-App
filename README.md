@@ -42,12 +42,18 @@ It simulates a real-world banking experience, including account registration, lo
 
 ## 🚀 How to Run
 
-### 1. Install Required Modules
+### 1. Clone the Repository
+```bash
+git clone https://github.com/SNEH-17PATEL/Pinnacle-Banking-App.git
+cd Pinnacle-Banking-App
+```
+
+### 2. Install Required Modules
 ```bash
 pip install yfinance matplotlib
 ```
 
-### 2. Run the Application
+### 3. Run the Application
 ```bash
 python banking_app.py
 ```
